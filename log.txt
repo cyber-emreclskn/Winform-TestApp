@@ -1,0 +1,35 @@
+2022-07-24 12:30:27.1726   15  INFO TestProject1.Tests Test 1 Başladı 
+2022-07-24 12:30:27.1896   15  INFO TestProject1.Tests Kullanıcı Ekleme Testi Başladı 
+2022-07-24 12:30:27.1916   15  INFO TestProject1.Tests Test 2 Başladı 
+2022-07-24 12:31:17.8293   16  INFO TestProject1.Tests Test 1 Başladı 
+2022-07-24 12:31:17.8453   16  INFO TestProject1.Tests Kullanıcı Ekleme Testi Başladı 
+2022-07-24 12:31:17.8473   16  INFO TestProject1.Tests Test 2 Başladı 
+2022-07-24 12:42:29.9624   16  INFO TestProject1.Tests Test 1 Başladı 
+2022-07-24 12:42:29.9794   16  INFO TestProject1.Tests Kullanıcı Ekleme Testi Başladı 
+2022-07-24 12:42:29.9794   16  INFO TestProject1.Tests Test 2 Başladı 
+2022-07-24 12:53:37.8995   15  INFO TestProject1.Tests Test 1 Başladı 
+2022-07-24 12:53:37.9175   15  INFO TestProject1.Tests Kullanıcı Ekleme Testi Başarılı 
+2022-07-24 12:53:37.9175   15  INFO TestProject1.Tests Test 2 Başladı 
+2022-07-24 13:00:42.0161   15  INFO TestProject1.Tests Test 1 Başladı 
+2022-07-24 13:00:42.0331   15  INFO TestProject1.Tests Kullanıcı Ekleme Testi Başarılı 
+2022-07-24 13:00:42.0351   15  INFO TestProject1.Tests Test 2 Başladı 
+2022-07-24 13:00:54.9670   15  INFO TestProject1.Tests Test 1 Başladı 
+2022-07-24 13:00:54.9830   15  INFO TestProject1.Tests Kullanıcı Ekleme Testi Başarılı 
+2022-07-24 13:00:54.9830   15  INFO TestProject1.Tests Test 2 Başladı 
+2022-07-24 13:00:55.0640   15  INFO TestProject1.Tests Test 3 Başladı 
+2022-07-24 13:00:55.0640   15  INFO TestProject1.Tests Kullanıcı Adı Testi Başarılı 
+2022-07-24 13:01:26.2565   15  INFO TestProject1.Tests Test 1 Başladı 
+2022-07-24 13:01:26.2735   15  INFO TestProject1.Tests Kullanıcı Ekleme Testi Başarılı 
+2022-07-24 13:01:26.2735   15  INFO TestProject1.Tests Test 2 Başladı 
+2022-07-24 13:01:26.3545   15  INFO TestProject1.Tests Test 3 Başladı 
+2022-07-24 13:01:26.3545   15  INFO TestProject1.Tests Kullanıcı Adı Testi Başarılı 
+2022-07-24 13:03:17.9493   15  INFO TestProject1.Tests Test 1 Başladı 
+2022-07-24 13:03:17.9573   15  INFO TestProject1.Tests Kullanıcı Ekleme Testi Başarılı 
+2022-07-24 13:03:17.9573   15  INFO TestProject1.Tests Test 2 Başladı 
+2022-07-24 13:03:18.0503   15  INFO TestProject1.Tests Test 3 Başladı 
+2022-07-24 13:03:18.0503   15  INFO TestProject1.Tests Kullanıcı Adı Testi Başarılı 
+2022-07-24 13:16:14.4226   16  INFO TestProject1.Tests Test 1 Başladı 
+2022-07-24 13:16:14.4296   16  INFO TestProject1.Tests Kullanıcı Ekleme Testi Başarılı 
+2022-07-24 13:16:14.4406   16  INFO TestProject1.Tests Test 2 Başladı 
+2022-07-24 13:16:14.5206   16  INFO TestProject1.Tests Test 3 Başladı 
+2022-07-24 13:16:14.5206   16  INFO TestProject1.Tests Kullanıcı Adı Testi Başarılı 

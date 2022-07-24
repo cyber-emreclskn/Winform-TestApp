@@ -1,0 +1,2 @@
+2022-07-24 13:03:17.9573   15 ERROR TestProject1.Tests !!!!------Kullanıcı Kontrol Test Başarısız------!!!! 
+2022-07-24 13:16:14.4406   16 ERROR TestProject1.Tests !!!!------Kullanıcı Kontrol Test Başarısız------!!!! 
